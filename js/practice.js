@@ -10,4 +10,5 @@ while (row != nst) {
     console.log("h");
   }
   row++;
+  //making row
 }
